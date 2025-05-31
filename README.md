@@ -12,7 +12,7 @@ Designed to reduce image size without significant quality loss, with automatic c
 - User alerts for success or failure of the operation.
 
 ## 🖥️ Screenshot (optional)
-> *(You can add a sample screenshot of the GUI or before/after results here later.)*
+![Screenshot](img/screenshot.png)
 
 ## 🧰 Requirements
 
