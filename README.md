@@ -59,6 +59,8 @@ The executable will appear in the `dist/` folder.
 
 This project is licensed under the [Apache License 2.0](LICENSE).
 
+ℹ️ Note: This repository is currently under initial setup. Final name and structure may change.
+
 ## ✨ Author
 
 - Tamer Hamad Faour – [GitHub: TamerOnLine](https://github.com/TamerOnLine)
