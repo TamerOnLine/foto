@@ -55,6 +55,13 @@ pyinstaller --onefile myfoto.py
 
 The executable will appear in the `dist/` folder.
 
+## 📥 Downloads
+
+- [⬇️ Download myfoto.exe](https://github.com/TamerOnLine/foto/releases/download/v1.0.0/myfoto.exe)
+- [📦 Source Code (ZIP)](https://github.com/TamerOnLine/foto/archive/refs/heads/main.zip)
+- [📦 Source Code (TAR.GZ)](https://github.com/TamerOnLine/foto/archive/refs/heads/main.tar.gz)
+
+
 ## 📄 License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
