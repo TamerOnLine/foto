@@ -68,6 +68,31 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ℹ️ Note: This repository is currently under initial setup. Final name and structure may change.
 
+🚧 Roadmap to Production-Grade Version
+To evolve tameronline-foto into a truly production-ready image compression tool, several enhancements are planned or suggested for future development:
+
+🖥️ Modern GUI
+Upgrade the interface from Tkinter to a more modern toolkit such as PyQt5, Ttk, or even a cross-platform solution like Electron for a smoother user experience.
+
+📁 Batch Processing Support
+Enable users to compress multiple images at once by selecting folders instead of single files.
+
+🎛️ Advanced Compression Controls
+Add settings for users to adjust output quality, choose specific formats like WebP, and fine-tune compression ratio.
+
+🧰 Installer Package
+Create a user-friendly Windows installer (using tools like Inno Setup or NSIS) to simplify deployment.
+
+🌐 Dedicated Landing Page
+Develop a simple static website for the project with a clean UI, feature overview, screenshots, and direct downloads.
+
+📢 Release & Distribution
+Publish the application to broader platforms like Product Hunt, Softpedia, AlternativeTo, and relevant open-source directories.
+
+🔔 Update Notification System
+Implement a lightweight mechanism to notify users when a new version is available (e.g., via API or version check).
+
+
 ## ✨ Author
 
 - Tamer Hamad Faour – [GitHub: TamerOnLine](https://github.com/TamerOnLine)
